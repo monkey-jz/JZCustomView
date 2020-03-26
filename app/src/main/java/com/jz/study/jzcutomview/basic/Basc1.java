@@ -60,6 +60,7 @@ public class Basc1 extends View {
         mTextPaint.setColor(Color.CYAN);
         mTextPaint.setTextSize(100f);
         mTextPaint.setAntiAlias(true);
+        mTextPaint.setShadowLayer(50,0,0,Color.YELLOW);
 
         Rect textRect = new Rect();
         mTextPaint.getTextBounds(text,0,text.length(),textRect);
