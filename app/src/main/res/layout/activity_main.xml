@@ -10,9 +10,9 @@
 <!--        android:layout_width="match_parent"-->
 <!--        android:layout_height="match_parent"/>-->
 
-    <com.jz.study.jzcutomview.basic.CustomPathView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+<!--    <com.jz.study.jzcutomview.basic.CustomPathView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"/>-->
 
 <!--    <com.jz.study.jzcutomview.basic.DrawBitmap-->
 <!--        android:layout_width="match_parent"-->
@@ -23,5 +23,11 @@
 <!--        android:layout_height="match_parent">-->
 
 <!--    </com.jz.study.jzcutomview.basic.ShaderDraw>-->
+
+    <com.jz.study.jzcutomview.basic.ClipView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </com.jz.study.jzcutomview.basic.ClipView>
 
 </RelativeLayout>
