@@ -24,10 +24,27 @@
 
 <!--    </com.jz.study.jzcutomview.basic.ShaderDraw>-->
 
-    <com.jz.study.jzcutomview.basic.ClipView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
+<!--    <com.jz.study.jzcutomview.basic.ClipView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent">-->
 
-    </com.jz.study.jzcutomview.basic.ClipView>
+<!--    </com.jz.study.jzcutomview.basic.ClipView>-->
+
+<!--    <com.jz.study.jzcutomview.anim.PropertyAnimView-->
+<!--        android:id="@+id/property_anim_view"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        >-->
+
+<!--    </com.jz.study.jzcutomview.anim.PropertyAnimView>-->
+
+    <com.jz.study.jzcutomview.basic.CustomImageView
+        android:id="@+id/CustomImageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        >
+
+    </com.jz.study.jzcutomview.basic.CustomImageView>
 
 </RelativeLayout>
